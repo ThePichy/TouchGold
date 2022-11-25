@@ -1,0 +1,8 @@
+main: com.pichy.TouchGold
+name: TouchGold
+author: Pichy
+version: 1.9
+website: https://github.com/ThePichy
+commands:
+  touchgold:
+    permission: '*'

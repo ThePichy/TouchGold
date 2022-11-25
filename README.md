@@ -1,2 +1,3 @@
 # TouchGold
-Minecraft, mas tudo que eu toco se transforma em ouro.
+- _Não é o projeto original, apenas uma rápida replica em plugin._
+- Inspiração: https://www.youtube.com/watch?v=DZfLJeFmK4M&ab_channel=Geleia
